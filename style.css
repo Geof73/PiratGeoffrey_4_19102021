@@ -7,9 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.headimg {
-    width: 9em;
-    height: 1.6em;
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .menuli {
