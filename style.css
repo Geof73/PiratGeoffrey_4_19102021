@@ -58,7 +58,9 @@ a:hover {
 }
 
 .bloc {
-    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
     clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
